@@ -26,7 +26,7 @@
 | ------------- | ------------- |
 |Réaliser une investigation numérique légale (Forensic) en appliquant des protocoles d’investigation numérique respectant les procédures légales afin d’apporter des preuves d’un acte malveillant ayant été commis au sein des systèmes d'information d'une organisation. | |
 |Formaliser les résultats de l’investigation numérique en élaborant un rapport détaillant les différentes données analysées et contextualisé en fonction de sa finalité afin d'informer les acteurs concernés. | |
-|Encadrer une analyse de malware en identifiant, en cartographiant et en analysant des éléments de type "malware" dans l'objectif d'ajuster les mesures de sécurité en découlant de ces nouvelles menaces. | |
+|Encadrer une analyse de malware en identifiant, en cartographiant et en analysant des éléments de type "malware" dans l'objectif d'ajuster les mesures de sécurité en découlant de ces nouvelles menaces. | Il est possible que j’éprouve certaines difficultés dues à mes lacunes en code|
 |Proposer un plan d'amélioration technique et organisationnelle en s'appuyant sur les résultats de l'investigation numérique afin de garantir un niveau de sécurité en accord avec les contraintes économiques de l'organisation. | |
 |Mettre en œuvre des solutions techniques pour freiner la propagation des malwares en modélisant des mécanismes spécifiques afin de réduire les potentielles menaces de type malware.   | |
 
